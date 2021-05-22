@@ -1,4 +1,4 @@
-# symmetrical-octo-parakeet
+
 # The Technical Writing Process
 
 Just like any other business activity, technical writing can be boiled down to a process – a set of high-level steps. These five steps are Plan, Structure, Write, Review and Publish. These high-level steps are the common elements in virtually every technical writing project – really in any business writing project – big or small.
